@@ -1,3 +1,5 @@
+This uses code from https://github.com/Jamextreme140/Bird-Engine to add lua on top of an up-to-date copy of CNE
+
 # Friday Night Funkin' - Codename Engine
 
 ![Animated-Banner](https://github.com/user-attachments/assets/5830221d-d954-4be3-afe8-caae364a5881)
